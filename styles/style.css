@@ -5,3 +5,7 @@ body{
   color:red;
   font-variant: small-caps;
 }
+img{
+  height: 50px;
+  width:auto;
+}
